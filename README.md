@@ -4,7 +4,7 @@ I made it to learn frontend.
 ####  MARKDOWN 
 It is my first try using **markdown**. 
 In order to learn, share progress and impressions i decided to use **markdown** .
-> I hope you will understand my English.
+> I will share my progress English.
 ####  Introduction to Git and GitHub.
 + Looked throught first two weeks of introduction to Git and GitHub course.
 + + I have never used Linux terminal  and VCS beafore. 

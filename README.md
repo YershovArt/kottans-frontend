@@ -27,4 +27,7 @@ I made it throught the terminal.
 + + As i wrote beafore, Linux is new to me.
 + + I was suprised by the number of useful instruments in Linux command line.
 + + I will practise in linux commands.
-
++ Read 2 parts of the article http: the protocol every web developer must know
++ +  At first i wasn't familiar with TCP /IP model. That is why i looked through the videos about it. 
++ +  The topic was totally new to me, everything suprised me.
++ + It is very ipmortant to understand the HTTP protocol. I will definetly use that knowdges in my work.

@@ -19,3 +19,7 @@ at first you should copy it to your repo by forking ,make changes (locally or re
 I made it throught the terminal. 
 + + Pull requests is very important part in collaborative working. I will always use it in my career, study etc.
 ## Linux CLI, and HTTP
+![quiz1](https://user-images.githubusercontent.com/110251725/186164179-87eef8d0-e37d-49d8-9c38-93c85c2d11c4.png)
+![quiz2](https://user-images.githubusercontent.com/110251725/186164185-2ae1c99d-bf94-43a0-9038-33dbd228abc0.png)
+![quiz 3 passed](https://user-images.githubusercontent.com/110251725/186164193-18970a22-db72-4fa6-b139-0d15220b4e63.png)
+![quiz4passed](https://user-images.githubusercontent.com/110251725/186164188-29fb5e95-da7b-4866-8f46-d28e44af6222.png)

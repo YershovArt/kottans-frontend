@@ -23,8 +23,8 @@ I made it throught the terminal.
 ![quiz2](https://user-images.githubusercontent.com/110251725/186164185-2ae1c99d-bf94-43a0-9038-33dbd228abc0.png)
 ![quiz 3 passed](https://user-images.githubusercontent.com/110251725/186164193-18970a22-db72-4fa6-b139-0d15220b4e63.png)
 ![quiz4passed](https://user-images.githubusercontent.com/110251725/186164188-29fb5e95-da7b-4866-8f46-d28e44af6222.png)
-+FInished 4 modules of Linux survival
-++ As i wrote beafore, Linux is new to me.
-++ I was suprised by the number of useful instruments in Linux command line. 
-++ I will practise in linux commands.
++ FInished 4 modules of Linux survival
++ + As i wrote beafore, Linux is new to me.
++ + I was suprised by the number of useful instruments in Linux command line.
++ + I will practise in linux commands.
 

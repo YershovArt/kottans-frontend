@@ -30,4 +30,4 @@ I made it throught the terminal.
 + Read 2 parts of the article http: the protocol every web developer must know
 + +  At first i wasn't familiar with TCP /IP model. That is why i looked through the videos about it. 
 + +  The topic was totally new to me, everything suprised me.
-+ + It is very ipmortant to understand the HTTP protocol. I will definetly use that knowdges in my work.
++ + It is very ipmortant to understand the HTTP protocol. I will definetly use that knowdges in my work. Go to the next tusk.

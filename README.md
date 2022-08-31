@@ -31,3 +31,15 @@ I made it throught the terminal.
 + +  At first i wasn't familiar with TCP /IP model. That is why i looked through the videos about it. 
 + +  The topic was totally new to me, everything suprised me.
 + + It is very ipmortant to understand the HTTP protocol. I will definetly use that knowdges in my work. Go to the next tusk.
+## Git Collaboration
++ + I opened gitHub for myself. And instruments which allow people sucsessfully collaborate all over the world.  
++ + During the course i was suprised by the easyaness of tracking issues and  code inspections , and no need to see  see each other physically.
++ + It is very important to understand how gitHub works for successful collaboration. It is necessary to use gitHub at work.
+![Coursera_Week3](https://user-images.githubusercontent.com/110251725/187609648-a5f80fef-3bcb-4bfe-a8ee-c1769c4ab5c2.png)
+![Coursera_Week 4](https://user-images.githubusercontent.com/110251725/1![git branching _local_done](https://user-images.githubusercontent.com/110251725/187610949-c26cd1f8-2ae1-4a75-8fee-2b8a3668fa44.png)
+![git branching _remote_done](https://user-images.githubusercontent.com/110251725/187610954-856635a1-026e-44aa-98a7-2cc714e90fec.png)
+87609656-a9580e8c-e2d1-4374-8a15-0130c9f6e840.png)
+![git branching _local_done](https://user-images.githubusercontent.com/110251725/187610998-ab494a37-43f6-48cc-8c1f-5aacb537e53f.png)
+
+
+

@@ -41,5 +41,13 @@ I made it throught the terminal.
 87609656-a9580e8c-e2d1-4374-8a15-0130c9f6e840.png)
 ![git branching _local_done](https://user-images.githubusercontent.com/110251725/187610998-ab494a37-43f6-48cc-8c1f-5aacb537e53f.png)
 
+ ## Intro to HTML and CSS
+ ![codeCademy](https://user-images.githubusercontent.com/110251725/189391436-41e4a14d-85a1-4adb-9b4b-ffe56217e99e.png)
+![htmlCssWeek1](https://user-images.githubusercontent.com/110251725/189391459-322f4747-bb34-4fdd-a277-f0c4a9ede6d6.png)
+![htmlCssWeek2](https://user-images.githubusercontent.com/110251725/189391469-c83b9d64-29c0-48b3-abe5-b7b7da58d51f.png)
++ + I started to look throught html and css lesons. I used to learn HTML and  CSS just to try it. But content models and metags were new to me.
++ + I was suprised by the amount of instruments of website styling.
++ + HTML and CSS are assential parts of web development, it is important to know and impossible not use them in my future work.
+ 
 
 

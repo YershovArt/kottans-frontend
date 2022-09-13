@@ -48,6 +48,17 @@ I made it throught the terminal.
 + + I started to look throught html and css lesons. I used to learn HTML and  CSS just to try it. But content models and metags were new to me.
 + + I was suprised by the amount of instruments of website styling.
 + + HTML and CSS are assential parts of web development, it is important to know and impossible not use them in my future work.
+## Responsive Web Design
+![responsiveFlex](https://user-images.githubusercontent.com/110251725/189969718-70201128-a9d8-48b2-bcd3-ca44875cfaa4.jpg)
++ + I used to learn flex in mimo app. But that was other expirience.
++ + The biggest surprise was flexbox froggy, so positive and useful game.
++ + Understanding of FlexBox basics is nessesery for front-end developer. I will practise it in future.
+![responsoveGrid](https://user-images.githubusercontent.com/110251725/189971588-55c02c39-c444-49c0-883b-9f9a8d87a7ac.jpg)
++ + I used to learn grid in mimo app. But that was other expirience.
++ + The biggest surprise was grid garden, the game has logical tusks and it was challenge for me.
++ + Understanding of grid basics is nessesery for front-end developer. I will practise it in future.
+
+
  
 
 
